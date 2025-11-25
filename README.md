@@ -1,7 +1,5 @@
 # Vityarthi-Project-Contact-Book
 ## Piyush Kumar Singh 25BAI11043
-# Vityarthi-Project-Contact-Book
-## Piyush Kumar Singh 25BAI11043
 # Contact Book (Python)
 ## Name: Piyush Kumar Singh
 ## Registration Number: 25BAI11043
